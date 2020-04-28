@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/akshat/AndroidStudioProjects/flash-chat-flutter/build/firebase_auth_web/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/akshat/.gradle/caches/transforms-2/files-2.1/10ae0346493e57bd5c834c5376242eb1/core-1.0.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/akshat/AndroidStudioProjects/flash-chat-flutter/build/firebase_auth_web/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/akshat/.gradle/caches/transforms-2/files-2.1/10ae0346493e57bd5c834c5376242eb1/core-1.0.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/akshat/AndroidStudioProjects/flash-chat-flutter/build/firebase_auth_web/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/akshat/.gradle/caches/transforms-2/files-2.1/10ae0346493e57bd5c834c5376242eb1/core-1.0.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/akshat/AndroidStudioProjects/flash-chat-flutter/build/firebase_auth_web/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/akshat/.gradle/caches/transforms-2/files-2.1/10ae0346493e57bd5c834c5376242eb1/core-1.0.0/res/drawable/notification_tile_bg.xml"
+    }
+]
