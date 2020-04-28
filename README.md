@@ -1,2 +1,7 @@
-# FlashChat
-A simple chat app using Firebase and Firestore
+# FlashChat ⚡️
+
+
+## About
+FlashChat is a simple chat app build with Flutter. Flashchat uses Firebase auth for login and registration. Messages are stored on a Firestore database. 
+
+![FlashChat](https://akshatadsule.github.io/logo.png)
