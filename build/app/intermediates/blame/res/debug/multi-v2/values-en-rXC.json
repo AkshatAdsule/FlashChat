@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/akshat/AndroidStudioProjects/flash-chat-flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
+            "outputFile": "/Users/akshat/Documents/GitHub/FlashChat/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
-                    "source": "/Users/akshat/.gradle/caches/transforms-2/files-2.1/10ae0346493e57bd5c834c5376242eb1/core-1.0.0/res/values-en-rXC/values-en-rXC.xml",
+                    "source": "/Users/akshat/.gradle/caches/transforms-2/files-2.1/d5a97e410e2c366a50d3e0f1ca998460/core-1.2.0/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endColumns": "202",
-                        "endOffsets": "253"
+                        "endColumns": "203",
+                        "endOffsets": "254"
                     }
                 }
             ]

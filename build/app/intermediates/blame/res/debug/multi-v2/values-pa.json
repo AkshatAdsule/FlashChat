@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/akshat/AndroidStudioProjects/flash-chat-flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
+            "outputFile": "/Users/akshat/Documents/GitHub/FlashChat/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
             "map": [
                 {
-                    "source": "/Users/akshat/.gradle/caches/transforms-2/files-2.1/10ae0346493e57bd5c834c5376242eb1/core-1.0.0/res/values-pa/values-pa.xml",
+                    "source": "/Users/akshat/.gradle/caches/transforms-2/files-2.1/d5a97e410e2c366a50d3e0f1ca998460/core-1.2.0/res/values-pa/values-pa.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -18,6 +18,23 @@
                         "startOffsets": "2861",
                         "endColumns": "100",
                         "endOffsets": "2957"
+                    }
+                },
+                {
+                    "source": "/Users/akshat/.gradle/caches/transforms-2/files-2.1/edb7ffda8a16dc83be01472038adc007/jetified-play-services-basement-17.0.0/res/values-pa/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "209",
+                        "endOffsets": "456"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1275",
+                        "endColumns": "209",
+                        "endOffsets": "1480"
                     }
                 },
                 {
@@ -35,23 +52,6 @@
                         "startOffsets": "105,214,419,551,662,868,999,1142,1485,1706,1817,2021,2155,2367,2558,2654,2750",
                         "endColumns": "108,204,131,110,205,130,142,132,220,110,203,133,211,190,95,95,110",
                         "endOffsets": "209,414,546,657,863,994,1137,1270,1701,1812,2016,2150,2362,2553,2649,2745,2856"
-                    }
-                },
-                {
-                    "source": "/Users/akshat/.gradle/caches/transforms-2/files-2.1/9a6b7437a88fabe5a38bbc0b63cb3758/jetified-play-services-basement-17.0.0/res/values-pa/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "209",
-                        "endOffsets": "456"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1275",
-                        "endColumns": "209",
-                        "endOffsets": "1480"
                     }
                 }
             ]

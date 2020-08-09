@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/akshat/AndroidStudioProjects/flash-chat-flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "outputFile": "/Users/akshat/Documents/GitHub/FlashChat/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
             "map": [
+                {
+                    "source": "/Users/akshat/.gradle/caches/transforms-2/files-2.1/edb7ffda8a16dc83be01472038adc007/jetified-play-services-basement-17.0.0/res/values-b+sr+Latn/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "254",
+                        "endColumns": "188",
+                        "endOffsets": "442"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1256",
+                        "endColumns": "188",
+                        "endOffsets": "1440"
+                    }
+                },
                 {
                     "source": "/Users/akshat/.gradle/caches/transforms-2/files-2.1/6d206c10dfcd7e4d261b33c292c090cb/play-services-base-17.1.0/res/values-b+sr+Latn/values.xml",
                     "from": {
@@ -21,24 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/akshat/.gradle/caches/transforms-2/files-2.1/9a6b7437a88fabe5a38bbc0b63cb3758/jetified-play-services-basement-17.0.0/res/values-b+sr+Latn/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "254",
-                        "endColumns": "188",
-                        "endOffsets": "442"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1256",
-                        "endColumns": "188",
-                        "endOffsets": "1440"
-                    }
-                },
-                {
-                    "source": "/Users/akshat/.gradle/caches/transforms-2/files-2.1/10ae0346493e57bd5c834c5376242eb1/core-1.0.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "source": "/Users/akshat/.gradle/caches/transforms-2/files-2.1/d5a97e410e2c366a50d3e0f1ca998460/core-1.2.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

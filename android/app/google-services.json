@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "80224308452-q6jgbev3d5usrc7mu22mka1b920uu44j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akshatadsule.flashchat",
+            "certificate_hash": "5ed66133711a47a7c157d874733f9f7f9a6582d8"
+          }
+        },
+        {
           "client_id": "80224308452-jimktk3aav1qc0mdai8dveios3s7mrar.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -30,6 +38,13 @@
             {
               "client_id": "80224308452-jimktk3aav1qc0mdai8dveios3s7mrar.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "80224308452-jgreda1g0j83qn1gf00073hatrjlna9j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.akshatadsule.flashChat"
+              }
             }
           ]
         }

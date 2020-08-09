@@ -160,12 +160,16 @@ class MessageStream extends StatelessWidget {
 
 String formatTime(Timestamp timestamp) {
   var time = timestamp.toDate().toLocal();
+
   return ('${time.month}/${time.day} ${time.hour}:${time.minute}');
 }
 
 class MessageBubble extends StatelessWidget {
   MessageBubble(
-      {this.message, this.sender, this.time, this.isMessageFromCurrentUser});
+      {@required this.message,
+      this.sender,
+      this.time,
+      this.isMessageFromCurrentUser});
   final String message;
   final String sender;
   final String time;
@@ -200,7 +204,7 @@ class MessageBubble extends StatelessWidget {
             child: Padding(
               padding: EdgeInsets.symmetric(vertical: 10, horizontal: 20),
               child: Text(
-                message,
+                message == null ? "" : message,
                 style: TextStyle(
                     color: isMessageFromCurrentUser
                         ? Colors.white
