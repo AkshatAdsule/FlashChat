@@ -4,7 +4,6 @@ import 'screens/login_screen.dart';
 import 'screens/registration_screen.dart';
 import 'screens/welcome_screen.dart';
 import 'package:workmanager/workmanager.dart';
-import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 
 var currentMessages;
 void callBackDispatcher() {
@@ -40,7 +39,7 @@ class FlashChat extends StatelessWidget {
       },
       theme: ThemeData.light().copyWith(
         textTheme: TextTheme(
-          body1: TextStyle(color: Colors.black54),
+          bodyText2: TextStyle(color: Colors.black54),
         ),
       ),
     );
